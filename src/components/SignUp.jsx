@@ -63,6 +63,7 @@ const SignUp = () => {
       <div className='col-md-6 card shadow'>
         <h1>Sign Up</h1>
         
+        
 
         <form action="" onSubmit={submit}>
           <p className='text-warning'>{loading}</p>
